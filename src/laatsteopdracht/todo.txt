@@ -1,0 +1,10 @@
+todo list
+----------------
+1:X bij laatste boot gezonken geen "RAAK" meer printen maar "WINNAAR is speler ..."
+2:X methode Player.getPlayAgain() verhuizen naar class SeaBattle
+3:X methoden met invoer (scanner) renmane naar "input..."
+4:X Field nog eens printen na ieder schot om gebruiker te informeren
+5:X bij schip gezonken melding geven aan speler over welk schip het gaat
+6:X testen of de not-cheat mode ook werkt bij 2 spelers
+7: 
+8: scanner bij hulp-variabelen zetten
